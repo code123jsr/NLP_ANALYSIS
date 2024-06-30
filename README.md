@@ -1,12 +1,12 @@
 # Sentiment Analysis of Movie Reviews using CNN
 
-This project performs sentiment analysis on a movie review dataset using various Convolutional Neural Network (CNN) architectures. The models are trained to predict the sentiment of movie reviews as either positive or negative.
+This project performs text classification by incorporating sentiment analysis on a movie review dataset using various Convolutional Neural Network (CNN) architectures. The models are trained and tuned to predict the sentiment of movie reviews.
 
-**Dataset:**
+# Dataset:
 
 The dataset used is the rt-polaritydata from Cornell University, which consists of positive and negative movie reviews.
 
-**Requirements:**
+# Requirements:
 
 Python 3.x
 PyTorch
