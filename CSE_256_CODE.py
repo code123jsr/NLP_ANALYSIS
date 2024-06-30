@@ -4,7 +4,7 @@
 # In[ ]:
 
 
-import numpy as np
+import numpy as np 
 import torch
 import torch.nn as nn
 
@@ -25,7 +25,7 @@ import shutil
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
 
-# install the libraries if not installed.
+# Install the libraries if not installed.
 '''
 !pip install torch torchvision torchtext
 !pip install torch torchtext spacy
