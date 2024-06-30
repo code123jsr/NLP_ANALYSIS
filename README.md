@@ -1,4 +1,4 @@
-**Sentiment Analysis of Movie Reviews using CNN**
+# Sentiment Analysis of Movie Reviews using CNN
 
 This project performs sentiment analysis on a movie review dataset using various Convolutional Neural Network (CNN) architectures. The models are trained to predict the sentiment of movie reviews as either positive or negative.
 
