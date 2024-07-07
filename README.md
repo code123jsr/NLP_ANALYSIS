@@ -9,6 +9,8 @@ This project aims to perform sentiment analysis on movie reviews using various C
                          connected layers, activation functions, and optimizers. The script trains these models on the training data, evaluates them on the testing data, and prints the training loss for each epoch and the final test accuracy. Hyperparameters such as 
                          learning rate, weight decay, and the number of epochs are tuned to find the optimal configuration.
 
+    - `rt-polarity.neg`: It contains negative moview reviews.
+    - `rt-polarity.pos`: It contains positive moview reviews.
 # Dataset:
 
 The dataset used is the rt-polaritydata from Cornell University, which consists of positive and negative movie reviews. It can be downloaded using the provided script:
